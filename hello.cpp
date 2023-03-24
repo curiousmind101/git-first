@@ -76,4 +76,17 @@ touch .gitignore       //to make a file that shoudn't go to repo
 write filename.format inside .gitignore file to hide that file
 even you can 
 
+GitHub 
+
+make a new repository
+
+add details and press create  
+
+attach orgin and follow the instruction to push
+
+fill user id password and then give access to files
+
+Your New repositary connected linked to git master branch is ready
+
+
 */
