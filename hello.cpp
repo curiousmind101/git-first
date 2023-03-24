@@ -88,5 +88,5 @@ fill user id password and then give access to files
 
 Your New repositary connected linked to git master branch is ready
 
-
+git push      //to push in github
 */
