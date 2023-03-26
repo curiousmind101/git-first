@@ -54,6 +54,8 @@ there will be different hashcode for every new commit
 
 git add .         // (dot is there) used send all the files in staging area
 
+git rm --cached -r .         //to remove all files from staging area
+
 git checkout <commit hashcode/branch name>  //to go to a particular stage or commit/branch (time travel)
 
 git branch        //to check current branch
@@ -74,7 +76,7 @@ you need to do this untill you reach master branch
 
 touch .gitignore       //to make a file that shoudn't go to repo
 write <filename.format> inside .gitignore file to hide that file
-even you can. 
+even you can.  put .gitingnore  file inside it to hide it
 
 # is used in .gitignore to comment something (like //)
 
@@ -94,4 +96,17 @@ fill user id password and then give access to files
 Your New repositary connected linked to git master branch is ready
 
 git push      //to push in github
+
+git diff <filename.format> // to see what changes are done in the file
+
+git checkout <filename.format> // to revert the changes you have done
+
+make an xcodeproject file
+
+open github and search gitignore.. you have two options i. swift    ii. Objective-C
+
+choose swift for now  -> copy all text inside it and paste it to .gitignore file
+
+stage->commit-> xcodeproject file will be gone
+
 */
