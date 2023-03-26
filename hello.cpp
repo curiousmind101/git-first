@@ -73,8 +73,13 @@ git merge <childbranch>
 you need to do this untill you reach master branch
 
 touch .gitignore       //to make a file that shoudn't go to repo
-write filename.format inside .gitignore file to hide that file
-even you can 
+write <filename.format> inside .gitignore file to hide that file
+even you can. 
+
+# is used in .gitignore to comment something (like //)
+
+*.ff         (.ff = .fileformat) this command is used to send all files of this fomrat to .gitignore
+
 
 GitHub 
 
