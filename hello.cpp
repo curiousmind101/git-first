@@ -109,4 +109,17 @@ choose swift for now  -> copy all text inside it and paste it to .gitignore file
 
 stage->commit-> xcodeproject file will be gone
 
+//Cloning 
+
+//before cloning go to a desired folder using cmd in your pc and start .git
+i. go to github 
+ii. search any repository
+iii. press on <code> button -> copy HTTPS link
+iv. now write this command
+
+git clone <https link> 
+
+the repository is cloned to your computer 
+
+now do whatever you just after entering that folder $ cd <folder name> (cloned)
 */
