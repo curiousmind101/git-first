@@ -79,7 +79,4 @@ even you can
 git diff <filename.format> // to see what changes are done in the file
 
 git checkout <filename.format> // to revert the changes you have done
-
-
-
 */
