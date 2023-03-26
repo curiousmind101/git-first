@@ -76,4 +76,10 @@ touch .gitignore       //to make a file that shoudn't go to repo
 write filename.format inside .gitignore file to hide that file
 even you can 
 
+git diff <filename.format> // to see what changes are done in the file
+
+git checkout <filename.format> // to revert the changes you have done
+
+
+
 */
